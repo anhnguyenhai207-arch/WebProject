@@ -1,2 +1,2 @@
 # WebProject
-heckpoint 1 - Responsible Consumption and Production
+Checkpoint 1 - Responsible Consumption and Production
